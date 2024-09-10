@@ -47,6 +47,7 @@ python train.py --dataset weibo2021 --epochs 100
 
 The following is an overview of the project structure:
 
+```bash
 FPF-SR/
 │
 ├── data/                 # Datasets
@@ -56,6 +57,7 @@ FPF-SR/
 ├── test.py               # Testing script
 ├── requirements.txt      # Required packages
 └── README.md             # Project information
+```
 
 ## Citation
 
