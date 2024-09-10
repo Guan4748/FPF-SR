@@ -53,8 +53,7 @@ FPF-SR/
 ├── data/                 # Datasets
 ├── models/               # Model architectures
 ├── results/              # Output and results
-├── train.py              # Training script
-├── test.py               # Testing script
+├── train.py              # Training script 
 ├── requirements.txt      # Required packages
 └── README.md             # Project information
 ```
