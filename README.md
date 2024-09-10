@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ### 2. Running the code: 
 
 ```bash
-python train.py --dataset weibo2021 --epochs 100
+python run.py --dataset weibo2021 --epochs 100
 ```
 
 ## Project Structure
@@ -53,7 +53,7 @@ FPF-SR/
 ├── data/                 # Datasets
 ├── models/               # Model architectures
 ├── results/              # Output and results
-├── train.py              # Training script 
+├── run.py              # Training script 
 ├── requirements.txt      # Required packages
 └── README.md             # Project information
 ```
